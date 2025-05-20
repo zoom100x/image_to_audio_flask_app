@@ -55,6 +55,7 @@ Ce script créera un environnement virtuel Python et installera toutes les dépe
 ### Téléchargez le dataset Flickr8k :
 
 Images : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+
 Textes : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
 
 ### Extrayez les fichiers dans les répertoires appropriés :
